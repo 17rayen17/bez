@@ -1,0 +1,8 @@
+.cardss{
+  display: flex;
+  gap: 25%;
+  padding: 30px;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}

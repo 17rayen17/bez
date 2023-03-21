@@ -1,0 +1,22 @@
+.userCard {
+  width: 450px;
+  height: 200px;
+  display: flex;
+  box-shadow: 0 0 5px #777;
+  margin: 20px;
+  overflow: hidden;
+  border-radius: 8px;
+}
+
+.userCard img {
+  height: 100%;
+  object-fit: cover;
+}
+
+.userCard div {
+  padding: 10px;
+}
+.userCard div * {
+  margin: 0;
+}
+
